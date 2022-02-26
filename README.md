@@ -4,6 +4,8 @@
 
 [![Twitter URL](https://img.shields.io/twitter/follow/kiricarini?style=social)](https://twitter.com/intent/follow?screen_name=kiricarini)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcarini/)
+
 <!--
 **kcarini/kcarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
