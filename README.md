@@ -1,4 +1,10 @@
-### Hi there 👋
+### ✨ Hi there ✨ 👋
+
+🔭 I’m currently working on my [website.](http://kcarini.github.io/)
+
+🌱 I’m currently learning 🐍
+
+A few places to find me:
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4245--2318-green?logo=orcid)](https://orcid.org/0000-0002-9630-0432)
 
