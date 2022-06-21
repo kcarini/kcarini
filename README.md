@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my [website.](http://kcarini.github.io/)
 
-🌱 I’m currently learning 🐍
+🌱 I’m currently learning 🐍 & GDAL 🌍
 
 A few places to find me:
 
