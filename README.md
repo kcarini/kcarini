@@ -1,8 +1,11 @@
 ### ✨ Hi there ✨ 👋
 
-🔭 I’m currently working on my [website.](http://kcarini.github.io/)
+🔭 I am the Technical Communications Lead at [Development Seed](https://developmentseed.org/). This means that I know a little about a lot of things. I'm good at talking about geospatial tech and love experimenting with and testing out things that other people build. <br>
 
-🌱 I’m currently learning 🐍 & GDAL 🌍
+I care a lot about data literacy, all things `open` - data, science, tools and using our powers for good. I love talking with non-technical people and helping them figure out how to apply geospatial data and tools to their work or research. 
+
+Organizations that I'm involved with or support: [Women in Geospatial](https://womeningeospatial.org/), [Women in GIS](https://womeningis.wildapricot.org/), [The Carpentries](https://carpentries.org/), [OpenStreetMap US](https://www.openstreetmap.us/).
+
 
 A few places to find me:
 
