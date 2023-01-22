@@ -9,7 +9,7 @@ Organizations that I'm involved with or support: [Women in Geospatial](https://w
 
 A few places to find me:
 
-[![Mastodon_Follow](https://img.shields.io/mastodon/follow/kiricarini?domain=https://mstdn.social%2F&style=social)
+![Mastodon_Follow](https://img.shields.io/mastodon/follow/109258073993618261?domain=https%3A%2F%2Fmstdn.social%2F&style=social)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcarini/)
 
